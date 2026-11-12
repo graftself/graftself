@@ -1,8 +1,10 @@
-<p align="center"><img src="logo.png" width="120" alt="Graftself"></p>
+<p align="center"><img src="banner.jpg" alt="GraftSelf: Your Life. Modeled."></p>
 
-# Graftself
+# GraftSelf
 
-**Not trained on everyone. Grafted from you.**
+**Your Life. Modeled.**
+
+Not trained on everyone. Grafted from you.
 
 A graftself is a personal AI grafted from one person's life. It learns from what you wrote, gets shaped by what you corrected, runs on hardware you own, and grows a new ring every night.
 
