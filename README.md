@@ -14,6 +14,8 @@ Every big model knows everything and no one. Every chat starts from zero, and th
 
 Coast redwood roots run shallow, but they spread wide and graft into their neighbors' roots until a grove stands like one living thing. A graftself works the same way. It grafts onto your life until the two of you share one root system.
 
+Read the full idea in [PHILOSOPHY.md](PHILOSOPHY.md).
+
 ## How it grows
 
 1. **Base model.** An open-weight model that runs locally at full precision.
