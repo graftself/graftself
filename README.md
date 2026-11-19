@@ -37,3 +37,10 @@ A robot with a graftself inside it isn't a generic machine. It knows its owner: 
 ## Status
 
 The first graftself is training now on a single Mac. Getting there meant writing our own GPU training code for the base model's newer attention layers, which cut training time from days to hours. Next comes a blind test: its replies against the real ones, side by side, to see if it actually sounds like the person.
+
+## In this repo
+- `training/` the LoRA training loop, row packer, launcher and pause-watcher used for the first run
+- `lookups/` real facts before it writes: order, product and how-to lookup, a fact checker, and a contradiction counter
+- `eval/` the blind-test generator
+- `plans/` the lookups plan
+- [RESULTS-2026-11-19.md](RESULTS-2026-11-19.md) first training run and blind-test numbers
